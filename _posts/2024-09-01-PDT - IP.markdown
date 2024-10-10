@@ -1,0 +1,60 @@
+---
+title: Erudio's Intellectual Property
+date: Sep 1 PDT 2024
+last_modified_at: Sep 1 PDT 2024
+categories:
+ - blog
+tags:
+ - IP
+toc: false
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
+---
+
+<head>
+	<link rel="stylesheet" href="/resource/styles.css">
+</head>
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+Erudio Bio's technology is protected by <font class="emph">21</font> issued patents with additional patents pending,
+covering <font class="emph">major markets of U.S., E.U, Canada, and China</font>
+spanning <font class="emph">seven</font> patent families.
+
+
+
+<h1>
+	Patents
+</h1>
+
+<ul>
+<li>
+Paik, Kee-Hyun; Milaninia, Kaveh M; Dill, Kilian; “Apparatuses and methods for detecting molecules and binding energy” US Patent 11,639,931, US Patent 10,444,179, US Patent 9,816,988, Chinese Patent ZL201680021022.3, EU Patent EP3256566A1, Canadian Patent CA2976043A1​
+</li>
+<li>
+Paik, Kee-Hyun; Persson, Henrik HJ; Lau, Billy Tsz Cheong; Ji, Hanlee P; Dutton, Robert W; Liu, Yang; Davis, Ronald W; “Apparatuses and methods for determining analyte charge”, US Patent US20210048426A1, EU Patent EP3158330B1​, Canadian Patent CA2951945C, Chinese Patent CN107003295B
+</li>
+<li>
+Paik, Kee-Hyun; Liu, Yang; Tabard-Cossa, Vincent; Dutton, Robert W; “Flow control method and apparatuses” US Patent 10,526,218
+</li>
+<li>
+Liu, Yang; Dutton, Robert W.; Howe, Roger T.; "Electro-diffusion enhanced bio-molecule charge detection using electrostatic interaction", US Patent US9989516B2, US Patent US9470651B2, US Patent US9188560B2.
+</li>
+<li>
+Javanmard, Mehdil; Emaminejad, Sam; Mok, Jannine; Mindrinos, Michael M.; "Negative dielectrophoresis for selective elution of immuno-bound particles", US Patent US9981273B2
+</li>
+<li>
+Emaminejad, Sam; Javanmard, Mehdi; Gupta, C.; Howe, Roger T.; "Methods and systems for orienting nanomaterials", US Patent US10585096B2
+</li>
+</ul>
+
+<h1>
+	Patents Pending
+</h1>
+
+Paik, Kee-Hyun; Persson, Henrik HJ; Lau, Billy Tsz Cheong; Ji, Hanlee P; Dutton, Robert W; Liu, Yang; Davis, Ronald W; “Apparatuses and methods for determining analyte charge”,  US Patent Application US20210048426A, Canadian Patent Application 2951945
+
+Paik, Kee-Hyun; "SYSTEMS AND METHODS FOR DYNAMIC FORCE SPECTROSCOPY IN DRUG DISCOVERY", US Patent Application 63/664,816
+
