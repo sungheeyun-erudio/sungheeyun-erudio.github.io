@@ -1,7 +1,7 @@
 ---
 title: Erudio's Intellectual Property
-date: Sep 1 PDT 2024
-last_modified_at: Sep 1 PDT 2024
+date: 2024-03-01 PDT
+last_modified_at: Sun Oct 13 19:54:13 PDT 2024
 categories:
  - blog
 tags:

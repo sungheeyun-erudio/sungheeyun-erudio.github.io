@@ -45,7 +45,7 @@ a cutting-edge semiconductor-based multiplexed instrument platform. Our technolo
 	the use of Erudio's VSA prototype platform for multiplexed analysis of human ocular samples.
 	The project aims to demonstrate how Erudio's technology can address the challenge of analyzing multiple biomarkers from the limited sample sizes typically available in ocular research.
 </p>
- 
+
  <p>
 	"We are incredibly excited to partner with Shanghai General Hospital on this groundbreaking research initiative,"
 	said Kee-Hyun Paik, CEO and Founder of Erudio Bio.
@@ -84,6 +84,15 @@ Our patented force spectroscopy technology measures the strength of bonds betwee
 </h2>
 
 With our expanding partnerships, Erudio is poised to generate vast amounts of medical data, driving knowledge discovery through   hidden insights and patterns from this extensive biological data.
+
+<h1 id="blog">Most recent posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
+		</li>
+	{% endfor %}
+</ul>
 
 <h1 id="team">
 	Out Team
@@ -127,7 +136,7 @@ and led AI projects at <a href="amazon.com">Amazon.com, Inc.</a> that generated 
 He holds M.S. and Ph.D. in Electrical Engineering (EE) from <a href="stanford.edu">Stanford University</a>
 &amp; a B.S. in EE from <a href="https://en.snu.ac.kr">Seoul National University</a>.
 and
-is an Adjunct Professor at <a href="https://sogang.ac.kr/en">Sogang University</a> 
+is an Adjunct Professor at <a href="https://sogang.ac.kr/en">Sogang University</a>
 and an Advisory Professor at <a href="https://dgist.ac.kr/">DGIST</a>.
 </p>
 
