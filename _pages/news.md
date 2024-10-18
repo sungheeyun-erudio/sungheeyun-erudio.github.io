@@ -12,7 +12,7 @@ toc_sticky: true
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-<h2>
+<h2 id="partnership-shanghai">
 	Erudio Bio Announces Partnership with Shanghai General Hospital for Ocular Biomarker Research
 </h2>
 
