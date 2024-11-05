@@ -13,7 +13,7 @@ toc_sticky: true
 </head>
 
 <h1 id="short-proposal">
-	Short proposal
+	Short proposal (Korean)
 </h1>
 
 스탠포드 의대에서 시작된 Erudio Bio는 AI 기반 플랫폼을 통해 하나의 생물학적 샘플에서 기존 기술보다 1,000배 많은 데이터를 추출할 수 있어
