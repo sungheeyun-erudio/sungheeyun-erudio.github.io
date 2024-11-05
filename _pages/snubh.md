@@ -18,7 +18,9 @@ toc_sticky: true
 
 Dear SNUBH,
 
-We at Erudio Bio, Inc. are excited to propose a Joint Development Project with Seoul National University Bundang Hospital, focusing on the detection and screening of cancer biomarkers and/or antibodies necessary for vaccination.
+We
+at [Erudio Bio, Inc.]({{ site.baseurl }}/)
+are excited to propose a Joint Development Project with Seoul National University Bundang Hospital, focusing on the detection and screening of cancer biomarkers and/or antibodies necessary for vaccination.
 
 Following our successful discussions and preliminary agreements with Shanghai Hospital, we are keen to extend our expertise in assay development to SNUBH. Our recent collaboration involved the development of assays for uveitis using a phased approach, initially focusing on a subset of targets to streamline technology transfer and expedite publication processes. We propose a similar methodology where we begin with identifying key cancer biomarkers or vaccination-related antibodies, e.g., hepatitis, allowing for an efficient development cycle and early data publication.
 
@@ -50,7 +52,9 @@ Erudio Bio, Inc.
 </h1>
 
 
-[Erudio Bio, Inc.]({{ site.baseurl }}/) is revolutionizing the economics of medicine with an AI enabled platform that can generate 1000x more data from a single biological sample than the market leading technology to make an impact on the $800B personalized medicine market. We stand to rapidly build shareholder value upon 16 years of previous work. Erudio’s dynamic force spectroscopy was birthed at Stanford School of Medicine and the technology was validated by Analog Devices, a $90B semi company, resulting in a partnership. Erudio began working with a large foreign hospital system serving 83M patient visits per year.
+[Erudio Bio, Inc.]({{ site.baseurl }}/) is revolutionizing the economics of medicine with an AI enabled platform that can generate 1000x more data from a single biological sample than the market leading technology to make an impact on the $800B personalized medicine market. We stand to rapidly build shareholder value upon 16 years of previous work.
+Erudio’s dynamic force spectroscopy was birthed at Stanford School of Medicine and the technology was validated by Analog Devices, a $90B semi company, resulting in a partnership.
+Erudio began working with a large foreign hospital system serving 83M patient visits per year.
 
 Here are a few highlights about the business:
 
