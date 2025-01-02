@@ -67,6 +67,9 @@ author:
 #  location         : "Cupertino, CA, USA"
 #  email            : info@erudio.bio
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sungheeyun-erudio/sungheeyun-erudio.github.io"
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:info@erudio.bio"
@@ -82,13 +85,13 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/company/erudio-bio-inc/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sungheeyun-erudio"
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sungheeyun-erudio/sungheeyun-erudio.github.io"
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:info@erudio.bio"
@@ -104,9 +107,6 @@ footer:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/company/erudio-bio-inc/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sungheeyun-erudio"
 
 defaults:
   # _posts
