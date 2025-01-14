@@ -4,10 +4,6 @@ title: Miscellaneous
 permalink: /misc/
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 <h1 id="pot-invest">
 	Potential investors
 </h1>

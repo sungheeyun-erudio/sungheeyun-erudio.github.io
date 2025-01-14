@@ -8,10 +8,6 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 <!--Our <a href="https://www.erudio.bio/general-5">innovative patented technology</a> addresses-->
 Our <a href="/blog/PDT-IP/">innovative patented technology</a> addresses
 critical limitations in current multiplexed assay methods,

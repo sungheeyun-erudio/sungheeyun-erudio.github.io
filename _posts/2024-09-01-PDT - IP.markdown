@@ -12,11 +12,9 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 Erudio Bio's technology is protected by <font class="emph">21</font> issued patents with additional patents pending,

@@ -14,11 +14,9 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 Feb 6, 2024 - Erudio Bio, Inc., a leader in multiplex bio detection, is thrilled to announce a groundbreaking research partnership with Shanghai General Hospital, one of the world's leading healthcare institutions.
