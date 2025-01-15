@@ -1,7 +1,7 @@
 ---
-title: "PR&amp;FAQ - Erudio Bio Announces Dual Breakthrough in Precision Diagnostics: Revolutionary Platforms for Uveitis and Cancer Detection Set for Global Launch"
+title: "Press Release - Erudio Bio Announces Dual Breakthrough in Precision Diagnostics"
 date: Tue Jan 14 03:00:13 PST 2025
-last_modified_at: Tue Jan 14 03:00:13 PST 2025
+last_modified_at: Tue Jan 14 17:06:10 PST 2025
 categories:
  - blog
 tags:
@@ -16,6 +16,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
+
+<blockquote>
+Erudio Bio, Inc. announces Dual Breakthrough in Precision Diagnostics - Revolutionary platforms for Uveitis and Cancer detection set for Global Launch
+</blockquote>
 
 
 December 1, 2025
