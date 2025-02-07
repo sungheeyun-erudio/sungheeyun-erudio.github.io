@@ -1,7 +1,7 @@
 ---
 title: "Press Release - Erudio Bio Announces Dual Breakthrough in Precision Diagnostics"
 date: Tue Jan 14 03:00:13 PST 2025
-last_modified_at: Tue Jan 14 17:06:10 PST 2025
+last_modified_at: Fri Feb  7 00:36:42 PST 2025
 categories:
  - blog
 tags:
@@ -67,7 +67,7 @@ In response to strong pre-launch interest, we have already initiated plans to do
 The company has successfully secured necessary regulatory approvals from China's NMPA, Korea's MFDS, and the U.S. FDA,
 enabling immediate market entry upon commercial launch in Q2 2026.
 
-For more information, contact:
+<!--For more information, contact:
 [Media Contact Name]
 Director of Communications, Erudio Bio, Inc.
 [Email]
@@ -79,4 +79,4 @@ About Erudio Bio
 ###
 
 Would you like me to refine any particular section or aspect of this announcement?
-
+-->
