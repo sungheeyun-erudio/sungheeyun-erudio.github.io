@@ -1,7 +1,7 @@
 ---
 title: 에루디오바이오 소개
 date: Wed Jul 23 00:54:34 EDT 2025
-last_modified_at: Wed Jul 23 02:11:39 EDT 2025
+last_modified_at: Sat Aug  9 22:55:01 KST 2025
 permalink: /intro/kr/
 categories:
  - blog
@@ -122,9 +122,10 @@ Erudio Bio, Inc.는 혁신적인 VSA(Versatile Smart Assay) 기술을 기반으�
 ## 경영진 및 자문단
 
 ### 핵심 경영진
-- **Co-Founder &amp; CEO**: 백기현 박사 ([스탠포드 대학교](https://www.stanford.edu/) 박사, 전 Multerra Bio 공동창업자)
-- **Co-Founder &amp; CTO**: 윤성희 박사 ([스탠포드 대학교](https://www.stanford.edu/) 박사, 전 [Gauss Labs, Inc.](https://www.gausslabs.ai/) Co-Founder &amp; CTO)
+- **Co-Founder &amp; CEO**: 백기현 박사 ([스탠포드 대학교](https://www.stanford.edu/) 박사, 前 Multerra Bio 공동창업자)
+- **Co-Founder &amp; CTO**: 윤성희 박사 ([스탠포드 대학교](https://www.stanford.edu/) 박사, 前 [Gauss Labs, Inc.](https://www.gausslabs.ai/) Co-Founder &amp; CTO)
 - **Co-Founder &amp; COO**: 레온 첸 ([스탠포드 대학교](https://www.stanford.edu/) 컴퓨터과학, USC MBA)
+- **Co-Founder &amp; CLO**: 허진영 ([서울대학교](https://en.snu.ac.kr/) 전기전자제어계측학부)
 
 ### 자문단
 - 스탠포드 대학교 석좌교수진 다수 포함
