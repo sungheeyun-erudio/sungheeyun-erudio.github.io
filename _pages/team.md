@@ -6,6 +6,7 @@ toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
+last_modified_at: Sun Aug 10 23:59:13 KST 2025
 ---
 
 <!--h1 id="team">
@@ -15,7 +16,7 @@ toc_sticky: true
 Meet the brilliant minds driving innovation at Erudio Bio, Inc. Our diverse team of scientists, researchers, and visionaries is dedicated to revolutionizing the biotech industry.
 
 <h1 id="kee">
-	Kee-Hyun Paik - CEO &amp; Founder
+	Kee-Hyun Paik - CEO &amp; Co-Founder
 </h1>
 
 <div class="img-container">
