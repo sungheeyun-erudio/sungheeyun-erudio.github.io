@@ -13,11 +13,13 @@
   --caption-font-size: 15px;
 }
 
+/*
 @media (max-width: 768px) {
   :root {
     --body-font-size: 14px;
   }
 }
+*/
 
 body {
 	font-family: 'Merriweather', serif;
@@ -25,7 +27,84 @@ body {
 	line-height: 1.6;
 	color: #222;
 	/* text-align: justify; */
+
+	counter-reset: algorithm axiom conjecture corollary definition formula inequality law lemma principle proposition theorem;
 }
+
+.algorithm { counter-increment: algorithm; }
+.axiom { counter-increment: axiom; }
+.conjecture { counter-increment: conjecture; }
+.corollary { counter-increment: corollary; }
+.definition { counter-increment: definition; }
+.formula { counter-increment: formula; }
+.inequality { counter-increment: inequality; }
+.law { counter-increment: law; }
+.lemma { counter-increment: lemma; }
+.principle { counter-increment: principle; }
+.proposition { counter-increment: proposition; }
+.theorem { counter-increment: theorem; }
+
+.algorithm,
+.axiom,
+.conjecture,
+.corollary,
+.definition,
+.formula,
+.inequality,
+.law,
+.lemma,
+.principle,
+.proposition,
+.theorem,
+.proof {
+  margin: 0 0 1em 0;
+  font-weight: normal;
+}
+
+.algorithm::before,
+.axiom::before,
+.conjecture::before,
+.corollary::before,
+.definition::before,
+.formula::before,
+.inequality::before,
+.law::before,
+.lemma::before,
+.principle::before,
+.proposition::before,
+.theorem::before,
+.proof:before {
+  font-weight: bold;
+}
+
+/* Individual labels without data-name */
+.algorithm::before { content: "Algorithm " counter(algorithm) ". "; color: #fa9d00; }
+.axiom::before { content: "Axiom " counter(axiom) ". "; color: #990f02; }
+.conjecture::before { content: "Conjecture " counter(conjecture) ". "; }
+.corollary::before { content: "Corollary " counter(corollary) ". "; color: #03ac13; }
+.definition::before { content: "Definition " counter(definition) ". "; color: blue; }
+.formula::before { content: "Formula " counter(formula) ". "; color: #2832c2; }
+.inequality::before { content: "Inequality " counter(inequality) ". "; }
+.law::before { content: "Law " counter(law) ". "; color: #b90e0a; }
+.lemma::before { content: "Lemma " counter(lemma) ". "; color: #48a860; }
+.principle::before { content: "Principle " counter(principle) ". "; color: #d21404; }
+.proposition::before { content: "Proposition " counter(proposition) ". "; color: #52b2bf; }
+.theorem::before { content: "Theorem " counter(theorem) ". "; color: green; }
+.proof::before { content: "Proof."; color: #ed2939; }
+
+/* Individual labels WITH data-name */
+.algorithm[data-name]::before { content: "Algorithm " counter(algorithm) ". [" attr(data-name) "] "; color: #fa9d00; }
+.axiom[data-name]::before { content: "Axiom " counter(axiom) ". [" attr(data-name) "] "; color: #990f02; }
+.conjecture[data-name]::before { content: "Conjecture " counter(conjecture) ". [" attr(data-name) "] "; }
+.corollary[data-name]::before { content: "Corollary " counter(corollary) ". [" attr(data-name) "] "; color: #03ac13; }
+.definition[data-name]::before { content: "Definition " counter(definition) ". [" attr(data-name) "] "; color: blue; }
+.formula[data-name]::before { content: "Formula " counter(formula) ". [" attr(data-name) "] "; color: #2832c2; }
+.inequality[data-name]::before { content: "Inequality " counter(inequality) ". [" attr(data-name) "] "; }
+.law[data-name]::before { content: "Law " counter(law) ". [" attr(data-name) "] "; color: #b90e0a; }
+.lemma[data-name]::before { content: "Lemma " counter(lemma) ". [" attr(data-name) "] "; color: #48a860; }
+.principle[data-name]::before { content: "Principle " counter(principle) ". [" attr(data-name) "] "; color: #d21404; }
+.proposition[data-name]::before { content: "Proposition " counter(proposition) ". [" attr(data-name) "] "; color: #52b2bf; }
+.theorem[data-name]::before { content: "Theorem " counter(theorem) ". [" attr(data-name) "] "; color: green; }
 
 @font-face {
     font-family: "PrettyKorean";
@@ -68,8 +147,9 @@ h1, h2, h3, h4, h5, h6 {
     */
     /*
     background-color: #fff9c4;
-    */
     background-color: #9b9bff;
+    */
+    background-color: #bdbdff;
     padding: 10px;
     margin: 10px 0;
     border-radius: 5px;
@@ -123,14 +203,15 @@ h1, h2, h3, h4, h5, h6 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #a0a0a0; 
+	background-color: #a0a0a0;
 	position: relative;
 	*/
 }
 
 
 .map-container iframe {
-	max-width: 80%;
+	max-width: 90%;
+	max-height: 50vh;
 	max-height: 200px;
 }
 
@@ -140,13 +221,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fig-container figure {
+	max-width: 90%;
 	display: inline-block;
-	max-width: 80%;
+	max-height: 50vh;
 }
 
 figcaption {
-  font-family: 'Montserrat', serif;
-  font-size: var(--caption-font-size);
+	width: 90%;
+	margin: 0 auto; /* Center the block horizontally */
+	text-align: justify;
+	font-family: 'Montserrat', serif;
+	font-size: var(--caption-font-size);
+	margin-bottom: 1em;
 }
 
 .img-container {
@@ -156,7 +242,21 @@ figcaption {
 }
 
 .img-container img {
-	max-width: 80%;
+	max-width: 90%;
+	max-height: 50vh;
+}
+
+.img-container-justified {
+	text-align: center;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	display: flex;
+	justify-content: space-between;
+}
+
+.img-container-justified img {
+	max-width: 49%;
+	max-height: 50vh;
 }
 
 .article-iframe-container {
@@ -166,12 +266,42 @@ figcaption {
 }
 
 .article-iframe-container iframe {
-	max-width: 80%;
+	max-width: 90%;
 	max-height: 200px;
 }
 
 .emph {
 	color: blue;
+	font-style: italic;
+}
+
+.eemph {
+	color: rgb(86%, 8%, 24%);
+	font-style: italic;
+}
+
+.fact-font {
+	color: #32cd32;
+	font-style: italic;
+}
+
+.name-font {
+	color: rgb(210, 105, 30);
+	font-style: italic;
+}
+
+.define {
+	color: blue;
+	font-style: italic;
+}
+
+.mproperty {
+	color: green;
+	font-style: italic;
+}
+
+.notation {
+	color: #549df9;
 	font-style: italic;
 }
 
@@ -226,25 +356,36 @@ figcaption {
 	content: '▼ ';
 }
 
-table {
-	border-collapse: collapse;
-	width: 100%;
-	max-width: 800px;
-	margin: 20px auto;
-}
-th, td {
-	border: 1px solid #ddd;
-	padding: 8px;
-	text-align: center;
-}
-th {
-	background-color: #f2f2f2;
-	font-weight: bold;
-}
-tr:nth-child(even) {
-	background-color: #f9f9f9;
-}
 caption {
 	font-weight: bold;
 	margin-bottom: 10px;
+}
+
+/* tables */
+
+th, td {
+	border: 1px solid #ddd;
+	text-align: center;
+}
+th {
+	text-align: center;
+	background-color: #fefefe;
+}
+tr:nth-child(even) {
+	background-color: #f8f8f8;
+}
+
+.borderless-table,
+.borderless-table tr,
+.borderless-table td {
+	border: none !important;
+	padding: 0 !important;
+	background: transparent !important;
+	margin: 0 !important;
+	font-family: 'Merriweather', serif;
+	font-size: var(--body-font-size);
+	line-height: 1.6;
+	color: #222;
+	text-align: left;
+	padding: 0 10px 0 0 !important;
 }
