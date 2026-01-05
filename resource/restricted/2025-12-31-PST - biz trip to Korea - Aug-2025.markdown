@@ -2,7 +2,7 @@
 layout: single
 title: "Business Trip Report - Korea @ Aug-2025"
 date: Wed Dec 31 19:56:39 PST 2025
-last_modified_at: Sun Jan  4 11:26:10 PST 2026
+last_modified_at: Sun Jan  4 16:37:42 PST 2026
 permalink: /report/biz-trip/2025/aug
 categories:
  - report
@@ -38,22 +38,22 @@ During this trip, Sunghee
 
 # Basic Logistics
 
-**Dates:** August 6-20, 2025 (14 nights)
+**Dates** - August 6-20, 2025 (14 nights)
 
-**Flights:**
-- **Outbound:** United 893, SFO → ICN (departed Aug 6 @ 10:40am PDT, arrived Aug 7 @ 3:00pm KST)
-- **Return:** United 892, ICN → SFO (departed Aug 20 @ 4:42pm KST, arrived Aug 20 @ 12:04pm PDT)
+**Flights**
+- **Outbound** - United 893, SFO → ICN (departed Aug 6 @ 10:40am PDT, arrived Aug 7 @ 3:00pm KST)
+- **Return** - United 892, ICN → SFO (departed Aug 20 @ 4:42pm KST, arrived Aug 20 @ 12:04pm PDT)
 
-**Base:** 가락동 (Garak-dong), Seoul
+**Base** - Garak-dong, Seoul
 
-**Regional Trips:**
-- **Aug 8:** Day trip to Jeonbuk & Daejeon
+**Regional Trips**
+- **Aug 8** - Day trip to Jeonbuk & Daejeon
   - KTX 451: Gwangmyeong Station → Iksan Station (7:55am → 8:53am)
   - SRT 370: Daejeon Station → Gwangmyeong Station (6:25pm → 7:13pm)
-- **Aug 12-13:** Overnight trip to Pohang (via Gyeongju)
+- **Aug 12-13** - Overnight trip to Pohang (via Gyeongju)
   - SRT 321: Suseo Station → Gyeongju Station (9:20am → 11:26am)
   - SRT 370: Gyeongju Station → Suseo Station (9:05pm → 11:12pm)
-- **Aug 19:** Day trip to Iksan
+- **Aug 19** - Day trip to Iksan
   - SRT 607: Suseo Station → Iksan Station (10:35am → 12:02pm)
   - SRT 614: Iksan Station → Suseo Station (4:15pm → 5:36pm)
 
