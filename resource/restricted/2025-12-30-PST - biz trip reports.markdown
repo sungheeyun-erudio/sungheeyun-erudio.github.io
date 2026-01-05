@@ -2,7 +2,7 @@
 layout: single
 title: "Business Trip Reports"
 date: Tue Dec 30 12:00:00 PST 2025
-last_modified_at: Sun Jan  4 21:41:32 PST 2026
+last_modified_at: Sun Jan  4 23:34:23 PST 2026
 permalink: /report/biz-trip/
 categories:
  - report
@@ -25,4 +25,5 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 - [Business Trip Report - Korea @ Aug-2025](/report/biz-trip/2025/aug){:target="_blank"}
 - [Business Trip Report - Korea @ Sep-2025](/report/biz-trip/2025/sep){:target="_blank"}
 - [Business Trip Report - Korea @ Oct-2025](/report/biz-trip/2025/oct){:target="_blank"}
+- [Business Trip Report - Korea @ Nov-2025 (Trip 1)](/report/biz-trip/2025/nov/1){:target="_blank"}
 
