@@ -20,10 +20,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-
-<!--
-# BUSINESS TRIP REPORT
--->
+**Report prepared by** Sunghee Yun
+<br>
+**Initial draft on** 31-Dec-2025
+<br>
+**Final Revised on** 04-Jan-2026
 
 # Trip Overview
 
@@ -242,9 +243,3 @@ After dinner discussion, Sunghee Yun and Jin Young Heo decided <span style="colo
 <h3>Purpose</h3>
 
 Explored collaboration and advisory opportunities with POSTECH faculty
-
-**Report prepared by** Sunghee Yun
-<br>
-**Initial draft on** 31-Dec-2025
-<br>
-**Final Revised on** 04-Jan-2026

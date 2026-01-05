@@ -20,6 +20,12 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+**Report prepared by** Sunghee Yun
+<br>
+**Initial draft on** 04-Jan-2026
+<br>
+**Final Revised on** 04-Jan-2026
+
 # Trip Overview
 
 **Korea • September 14-27, 2025 • Sunghee Yun**
@@ -888,9 +894,3 @@ Flight: OZ 212, ICN → SFO (departed 8:55pm KST, arrived 3:30pm PDT same day)
 **Contact** - James Rhee (Johnson Chair of Entrepreneurship @ red helicopter)
 
 **Network** - Professors and experts in humanities and social sciences
-
-**Report prepared by** Sunghee Yun
-<br>
-**Initial draft on** 04-Jan-2026
-<br>
-**Final Revised on** 04-Jan-2026
