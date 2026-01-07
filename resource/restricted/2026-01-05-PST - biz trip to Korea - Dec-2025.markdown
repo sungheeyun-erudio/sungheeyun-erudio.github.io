@@ -1,9 +1,8 @@
 ---
-layout: single
-author_profile: true
-title: "Business Trip Report - Korea @ Dec-2025"
 date: Mon Jan  5 23:11:48 PST 2026
-last_modified_at: Tue Jan  6 01:05:09 PST 2026
+last_modified_at: Tue Jan  6 19:02:02 PST 2026
+layout: single
+title: "Business Trip Report - Korea @ Dec-2025"
 permalink: /report/biz-trip/2025/dec
 categories:
  - report
@@ -13,6 +12,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-music"
 toc_sticky: true
+author_profile: true
 ---
 
 posted: {{ page.date| date: "%d-%b-%Y" }}
@@ -67,25 +67,25 @@ Conference-intensive 12-night trip anchoring year-end partnerships and governmen
 
 | Owner | Deliverable | Deadline | Status |
 |-------|-------------|----------|--------|
-| Sunghee Yun / Jin Young Heo | **Execute joint development agreement with Keimyung University Dongsan Hospital** with 강혜인 교수 (Laboratory Medicine) | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Initiate PoC at Keimyung preliminary testing environment** for biochip validation | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Meet SNUBH Head** (진단검사의학과 major) - arranged by 신원순/조병주 | Next trip Q1-2026 | <span style="color: blue;">Scheduled</span> |
+| Sunghee Yun / Jin Young Heo | **Execute joint development agreement with Keimyung University Dongsan Hospital** with 이시욱 교수, 강혜인 교수, 김도훈 교수 (Laboratory Medicine) | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun / Kee-Hyun Paik | **Initiate PoC at Keimyung preliminary testing environment** for biochip validation | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun | **Meet SNUBH Head** (진단검사의학과 major) - arranged by 신원순/조병주 | Next trip Q1-2026 | <span style="color: blue;">Scheduled</span> |
 | Sunghee Yun / Jin Young Heo | **Find and contract CRO for SNUBH IRB process** | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Follow up with 김영웅 대표** on 나은병원 (Naeun Hospital, Incheon Songdo) introduction | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Meet 가천대의대** (Gachon University College of Medicine) - introduced by 김용석 원장 | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Finalize partnership terms with LULUMEDIC** | Q1-2026 | <span style="color: blue;">In Progress</span> |
-| Sunghee Yun / Jin Young Heo | **Advance collaboration with MaiT** (이시욱 대표, 한봉주 QA Lead) on technical and commercial fronts | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun | **Follow up with 김영웅 대표** on 나은병원 (Naeun Hospital, Incheon Songdo) introduction | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun | **Meet 가천대의대** (Gachon University College of Medicine) - introduced by 김용석 원장 | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun / Kee-Hyun Paik | **Finalize partnership terms with LULUMEDIC** | Q1-2026 | <span style="color: blue;">In Progress</span> |
+| Sunghee Yun / Kee-Hyun Paik | **Advance collaboration with MaiT** (이시욱 대표, 한봉주 QA Lead) on technical and commercial fronts | Q1-2026 | <span style="color: blue;">In Progress</span> |
 | Sunghee Yun | **Follow up with 임채권 교수** (KAIST) on Silicon Valley visit and KAIST-Erudio Bio partnership | Q1-2026 | <span style="color: blue;">In Progress</span> |
 | Sunghee Yun | **Engage with 황호연** (General Partner, Forest Partners) for potential investment discussions | Q1-2026 | <span style="color: red;">Pending</span> |
-| Sunghee Yun | **Leverage AI-BioX Conference network** - follow up with key contacts from Johns Hopkins, Cambridge, Cedars-Sinai, SNU, etc. | Q1-2026 | <span style="color: red;">Pending</span> |
+| Sunghee Yun | **Leverage AI-BioX Conference network** - follow up with key contacts from Johns Hopkins, Cambridge, Cedars-Sinai, SNU, etc. | Q1-2026 | <span style="color: blue;">In Progress</span> |
 | Sunghee Yun | **Connect with 김종일** (Director, SNU Medicine Biochemistry & Molecular Biology) for research collaboration | Q1-2026 | <span style="color: red;">Pending</span> |
 | Sunghee Yun | **Follow up with 황재선** (VP, SK Bioscience Digital Innovation) from Town Hall meeting | Q1-2026 | <span style="color: red;">Pending</span> |
 
 # MILESTONES & TIMELINE
 
-**Immediate (Dec 2025):**
+**Immediate (Dec 2025)**
 - ✅ AI-BioX ConfEX Grand Summit 2025 participation completed (2 days)
-- ✅ Keimyung University Dongsan Hospital joint development formalized with 강혜인 교수
+- ✅ Keimyung University Dongsan Hospital joint development formalized with 이시욱 교수, 강혜인 교수, 김도훈 교수
 - ✅ Keimyung preliminary testing environment (PoC) secured
 - ✅ 김준혁 의원 strong endorsement obtained at SNUBH meeting
 - ✅ SNUBH Head meeting arranged for next trip
@@ -95,9 +95,12 @@ Conference-intensive 12-night trip anchoring year-end partnerships and governmen
 - ✅ 50+ biotech/AI professional network expanded
 - ✅ Forest Partners investment landscape meeting
 - 🔄 CRO search for SNUBH IRB process
-- 🔄 Joint development agreement documentation
 
-**Short-term (Q1 2026):**
+<!--
+- 🔄 Joint development agreement documentation
+-->
+
+**Short-term (Q1 2026)**
 - Keimyung joint development agreement executed
 - PoC initiated at Keimyung preliminary testing environment
 - SNUBH Head meeting completed
@@ -106,7 +109,6 @@ Conference-intensive 12-night trip anchoring year-end partnerships and governmen
 - 가천대의대 collaboration explored
 - LULUMEDIC partnership finalized
 - MaiT technical/commercial collaboration advanced
-- KAIST partnership framework defined
 
 **Medium-term (2026):**
 - Four hospital partnerships operational (SNUBH, Seoul Asan, Keimyung, 나은병원/가천대)
@@ -115,13 +117,14 @@ Conference-intensive 12-night trip anchoring year-end partnerships and governmen
 - Clinical data generation from multiple hospital sites
 - National Assembly support leveraged for regulatory advantages
 - Investment secured through expanded investor network
+- KAIST partnership framework defined
 
 # STRATEGIC INSIGHTS
 
 1. **Four-Hospital Network Strategy Crystallizing:**
    - **SNUBH** (Seoul National University Bundang Hospital) - IRB in progress, National Assembly support
-   - **Seoul Asan Hospital** - Asan Foundation (김인재) ready when timing appropriate
    - **Keimyung University Dongsan Hospital** - Joint development formalized, PoC environment secured
+   - **Seoul Asan Hospital** - Asan Foundation (김인재) ready when timing appropriate
    - **나은병원** (Naeun Hospital, Incheon Songdo) - Introduction by 김영웅, pending engagement
    - **가천대의대** (Gachon University College of Medicine) - Introduction by 김용석, pending engagement
    - Geographic diversity (Seoul, Bundang, Daegu, Incheon) + institutional variety (national university, private hospital, medical school) creates robust validation network
@@ -231,7 +234,7 @@ Conference-intensive 12-night trip anchoring year-end partnerships and governmen
 
 ### 4:15pm - Arrival at ICN
 
-### Evening - AI-BioX ConfEX Pre-Conference Networking Dinner
+### 7pm-9pm - Evening - AI-BioX ConfEX Pre-Conference Networking Dinner
 
 <h4>Location</h4>
 
