@@ -1,9 +1,9 @@
 ---
+date: Tue Dec 30 12:00:00 PST 2025
+last_modified_at: Thu Mar 19 21:05:55 PDT 2026
 layout: single
 title: "Business Trip Reports"
-date: Tue Dec 30 12:00:00 PST 2025
-last_modified_at: Tue Jan  6 01:06:56 PST 2026
-permalink: /report/biz-trip/
+permalink: /report/biz-trips/
 categories:
  - report
 tags:
