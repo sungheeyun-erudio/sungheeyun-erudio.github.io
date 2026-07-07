@@ -1,8 +1,8 @@
 ---
 date: Tue Dec 30 12:00:00 PST 2025
-last_modified_at: Thu Mar 19 21:05:55 PDT 2026
+last_modified_at: Mon Jul  6 18:37:30 PDT 2026
 layout: single
-title: "Business Trip Reports"
+title: "Sunghee's Business Trip Reports"
 permalink: /report/biz-trips/
 categories:
  - report
