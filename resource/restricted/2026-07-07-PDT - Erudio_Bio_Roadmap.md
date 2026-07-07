@@ -1,6 +1,6 @@
 ---
 date: Tue Jul  7 03:57:38 PDT 2026
-last_modified_at: Tue Jul  7 04:06:42 PDT 2026
+last_modified_at: Tue Jul  7 12:43:02 PDT 2026
 layout: single
 title: "Erudio Bio — Technical, Business & Strategic Roadmap"
 permalink: /roadmap/2026/v1
@@ -80,7 +80,7 @@ The Phase I seven-stage pipeline (structure prediction → MD relaxation → CD 
 
 VSA's DFS output feeds bioTCAD's affinity anchoring (via a Bell–Evans interpretation) **directly** — so the measurement that calibrates the simulation is *made in-house*, not bought from third parties. This is the vertical integration competitors cannot replicate, and (see §5.3) it is also the fix for the Phase I affinity-anchor reliability problem.
 
-## Where the AI lives (my domain)
+## Where the AI lives
 
 bioTCAD is already a multi-layer AI system, not a simulator with AI bolted on. Mapped to the five-zone landscape:
 
@@ -109,7 +109,7 @@ The strategic asymmetry: **every calibration run produces proprietary, measureme
 
 **Play:** convert the RFI comment letter into a durable regulatory position — get measurement-anchored, model-based candidate analysis recognized as a **qualifiable NAM** under existing V&V-40 / context-of-use / fit-for-purpose machinery, and use pre-IND engagement as the venue.
 
-**My contribution:** the uncertainty-quantification argument is the regulatory linchpin — context-of-use, model-risk, and fit-for-purpose validation *all* depend on the model knowing when it is reliable, which is exactly what measurement-anchored (via SBI, §5.4) confidence bounds provide and pure ML lacks OOD. This is what makes bioTCAD *admissible*, not just accurate.
+**Note:** the uncertainty-quantification argument is the regulatory linchpin — context-of-use, model-risk, and fit-for-purpose validation *all* depend on the model knowing when it is reliable, which is exactly what measurement-anchored (via SBI, §5.4) confidence bounds provide and pure ML lacks OOD. This is what makes bioTCAD *admissible*, not just accurate.
 
 **Prize:** if Erudio helps define the data-quality and calibration standards, competitors must meet Erudio-shaped standards — a regulatory moat.
 
@@ -188,11 +188,11 @@ Quarterly through 2027, then annual. Four workstreams: **bioTCAD/AI**, **VSA dia
 
 # bioTCAD technical roadmap — the AI deep-dive
 
-This is where the platform is won or lost, and where my expertise is decisive. Phase I proved the *mechanism* on one molecule (D4V2). The job now is to turn a bespoke, manual, single-molecule result into an **automated, general, self-improving platform.** Five problems, in priority order.
+This is where the platform is won or lost. Phase I proved the *mechanism* on one molecule (D4V2). The job now is to turn a bespoke, manual, single-molecule result into an **automated, general, self-improving platform.** Five problems, in priority order.
 
 ## From D4V2-specific to general — the generalization problem
 
-**Where we are:** the customized force field is anchored to *one* peptide. D4V2 succeeded; D1V1 required a different strategy (CMAP). Each new molecule currently implies a bespoke calibration, and some fail. This is, in ML terms, the same **out-of-distribution** issue at the heart of my FDA argument — a calibration fit to D4V2 is by construction anchored to D4V2, and the open question is whether the *approach* transfers.
+**Where we are:** the customized force field is anchored to *one* peptide. D4V2 succeeded; D1V1 required a different strategy (CMAP). Each new molecule currently implies a bespoke calibration, and some fail. This is, in ML terms, the same **out-of-distribution** issue at the heart of the FDA argument — a calibration fit to D4V2 is by construction anchored to D4V2, and the open question is whether the *approach* transfers.
 
 **The path (learned priors, not per-molecule from scratch):**
 1. **Parameter Recommender Network** — train a sequence/topology → calibration-parameter model on the growing calibration library (LJ ε-scaling, the *a*/*b* correction coefficients). New molecules **initialize from a learned prior** instead of generic defaults. This is the direct analog of TCAD process-parameter libraries transferred across device geometries — Kee's world, formalized in ML.
@@ -257,4 +257,4 @@ Modality scope expands along the ladder: **peptides → small molecules (ADMET a
 
 Erudio's defensibility is not the simulator and not any single model — it is the **measurement-anchored data loop**: VSA generates ground truth no one else has, bioTCAD turns it into calibrated prediction, and every run enriches a proprietary corpus that makes the next prediction better and cheaper. Diagnostics funds the journey; the FDA and DoW work builds credibility and non-dilutive runway; pharma is where the platform monetizes at scale.
 
-That loop is fundamentally an **AI and software asset** — which is precisely where my mandate as CTO sits, and where the next two years of value creation will be decided.
+That loop is fundamentally an **AI and software asset**, and where the next two years of value creation will be decided.
