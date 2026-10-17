@@ -1,6 +1,6 @@
 ---
 date: Mon Jul  6 18:25:16 PDT 2026
-last_modified_at: Tue Jul  7 04:08:41 PDT 2026
+last_modified_at: Fri Oct 16 23:40:29 PDT 2026
 layout: single
 title: "Master Page for Restricted Pages"
 permalink: /sayunint-restricted-pages
@@ -30,6 +30,8 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {% assign bio_us_ir_pitch = site.pages | where: "permalink", "/ir-pitch/bio-us/2026" | first %}
 {% assign ai_strategy_fda_rfi = site.pages | where: "permalink", "/ai-strategy/fda-rfi" | first %}
 {% assign roadmap_v1 = site.pages | where: "permalink", "/roadmap/2026/v1" | first %}
+{% assign glossary = site.pages | where: "permalink", "/glossary/inventory/erudio" | first %}
+
 
 - [{{ biz_trip_reports.title }}]({{ biz_trip_reports.url }}){:target="_blank"}
 - [{{ singapore.title }}]({{ singapore.url }}){:target="_blank"}
@@ -42,3 +44,4 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 - [{{ bio_us_ir_pitch.title }}]({{ bio_us_ir_pitch.url }}){:target="_blank"}
 - [{{ ai_strategy_fda_rfi.title }}]({{ ai_strategy_fda_rfi.url }}){:target="_blank"}
 - [{{ roadmap_v1.title }}]({{ roadmap_v1.url }}){:target="_blank"}
+- [{{ glossary.title }}]({{ glossary.url }}){:target="_blank"}
