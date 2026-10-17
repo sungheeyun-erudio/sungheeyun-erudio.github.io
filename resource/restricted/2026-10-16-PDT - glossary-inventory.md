@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 16 23:35:00 PDT 2026
-last_modified_at: Sat Oct 17 00:55:34 PDT 2026
+last_modified_at: Sat Oct 17 01:50:00 PDT 2026
 layout: single
 title: "Erudio Glossary Inventory"
 permalink: /glossary/inventory/erudio
@@ -28,6 +28,13 @@ author_profile: true
 		font-size: calc(var(--body-font-size) * 0.85);
 		font-family: inherit;
 	}
+
+	#glossary { display: table; width: 100%; table-layout: fixed; }
+	#glossary th:nth-child(1) { width: 7%; }
+	#glossary th:nth-child(2) { width: 18%; }
+	#glossary th:nth-child(3) { width: 55%; }
+	#glossary th:nth-child(4) { width: 20%; }
+	.page__content th { text-align: center !important; }
 </style>
 
 Prepared by Sunghee Yun (Co-Founder & CTO) · personal study notes
@@ -41,7 +48,7 @@ Working inventory of terms from biologics, binding kinetics, and US biodefense a
 Sorted case-insensitively. CDC appears twice on purpose — two different terms that share an acronym.
 
 | # | Term | Stands for / one-liner | Note |
-|:--|:-:|:--|:--|
+|:-:|:-:|:--|:--|
 | 1 | 510(k) | FDA premarket notification pathway for devices substantially equivalent to an existing one |  |
 | 2 | adalimumab | molecule in Humira; anti-TNF-α IgG |  |
 | 3 | ADCC | antibody-dependent cellular cytotoxicity — NK cell grabs Fc, kills the target cell |  |
@@ -113,6 +120,7 @@ Sorted case-insensitively. CDC appears twice on purpose — two different terms 
 | 69 | Strategic National Stockpile | SNS — federal reserve of medical countermeasures, run by ASPR |  |
 | 70 | T cell | lymphocyte that kills infected cells or directs other immune cells |  |
 | 71 | VSA | Versatile Smart Assay (Erudio's platform) |  |
+{: #glossary}
 
 ## 2. Biophysics Intuitions
 
