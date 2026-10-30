@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 16 23:35:00 PDT 2026
-last_modified_at: Wed Oct 28 18:44:25 PDT 2026
+last_modified_at: Thu Oct 29 17:40:34 PDT 2026
 layout: single
 title: "Biotech, Biophysics and Regulatory Glossary"
 permalink: /glossary/inventory/erudio
@@ -209,7 +209,7 @@ Entries that need more room than a glossary line — the molecules and structure
 Run blood serum through electrophoresis at about pH 8.6 and the proteins separate. Separation is mostly by **charge**, not by size: each protein has an isoelectric point (pI), the pH at which its net charge is zero, and at pH 8.6 — above most proteins' pI — they carry net negative charge and migrate toward the positive electrode. How far each one travels depends on its charge-to-size ratio, so they resolve into bands:
 
 | Band | Principal contents |
-|:--|:--|
+|:-:|:--|
 | Albumin | albumin — strongly negative, travels furthest |
 | α₁ | α₁-antitrypsin |
 | α₂ | haptoglobin, ceruloplasmin, α₂-macroglobulin |
@@ -320,7 +320,7 @@ So one molecule carries two separable functions: *what it grabs* (Fab) and *what
 **The isotype family.** Five classes, conventionally remembered as *GAMED*:
 
 | Isotype | Where it works | Role |
-|:--|:--|:--|
+|:-:|:--|:--|
 | IgG | blood, tissue | sustained defence; the therapeutic format |
 | IgA | mucus, saliva, breast milk | guards wet surfaces — gut, airway |
 | IgM | blood | first responder; a large pentamer made early in an infection |
