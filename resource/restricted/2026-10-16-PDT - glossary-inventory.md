@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 16 23:35:00 PDT 2026
-last_modified_at: Thu Oct 29 17:40:34 PDT 2026
+last_modified_at: Thu Oct 29 19:35:36 PDT 2026
 layout: single
 title: "Biotech, Biophysics and Regulatory Glossary"
 permalink: /glossary/inventory/erudio
@@ -133,7 +133,7 @@ Sorted case-insensitively. CDC appears twice on purpose — two unrelated terms 
 | 55 | homeostasis | The body's self-regulation toward a stable internal state — temperature, pH, glucose, ion balance — through feedback. |  |
 | 56 | HON | **The Honorable** — the courtesy title marking a Senate-confirmed political appointee (a *PAS* position: Presidentially Appointed, Senate-confirmed). On a distribution list, HON versus SES versus a military rank distinguishes appointee from career civilian from uniformed officer at a glance. | pairs with SES, CIV |
 | 57 | Humira | AbbVie's brand of adalimumab, and the reference case for why US biosimilars did not cut prices. AbbVie was spun out of Abbott in 2013. US biosimilar entry finally came in January 2023, from Amgen, Sandoz, Samsung Bioepis, Celltrion and others — the date set by patent settlements rather than by science. Even then savings were slow, because AbbVie's rebates to pharmacy benefit managers kept the net cost of Humira competitive and because plain biosimilars could not be substituted at the counter without an interchangeability designation. | 브랜드명; molecule = adalimumab |
-| 58 | IgG | **Immunoglobulin G** — the main antibody class in blood and the class nearly all antibody drugs belong to. Two heavy chains and two light chains in a Y, two Fab arms and one Fc stem. | see *Molecules in Depth* |
+| 58 | IgG | **Immunoglobulin G** — the main antibody class in blood and the class nearly all antibody drugs belong to. Two heavy chains and two light chains in a Y, two Fab arms and one Fc stem. | see *Topics in Depth* |
 | 59 | immunoglobulin | The formal name for an antibody, abbreviated Ig. Classes: IgG, IgA, IgM, IgD, IgE. | 면역글로불린 |
 | 60 | IND | **Investigational New Drug** application — FDA permission to give an experimental drug to humans. Filed before clinical trials; FDA has 30 days to object. |  |
 | 61 | INN | **International Nonproprietary Name** — the generic name of a drug substance, assigned by the WHO and the same worldwide. Antibodies end in *-mab*; the preceding syllables encode the target and the source. | e.g. adalimumab vs brand Humira |
@@ -168,23 +168,24 @@ Sorted case-insensitively. CDC appears twice on purpose — two unrelated terms 
 | 90 | OUSD | **Office of the Under Secretary of Defense** — the staff organisation under one Under Secretary, always written with the domain in parentheses: OUSD(P&R), OUSD(Policy), OUSD(A&S), OUSD(R&E). | renamed OUSW |
 | 91 | OUSW | **Office of the Under Secretary of War** — the renamed OUSD, same convention: OUSW(P&R) and so on. | = OUSD |
 | 92 | P&R | **Personnel and Readiness** — the Under Secretary domain covering military personnel, health affairs, training and force readiness. Health Affairs and the Defense Health Agency sit beneath it. Not to be confused with *Preparedness and Response*, which is ASPR at HHS — a different department entirely. | ≠ ASPR, ≠ OPHPR |
-| 93 | PBM | **Pharmacy benefit manager** — the intermediary that negotiates drug prices for insurers and employers. Manufacturers pay rebates off list price to secure formulary position, so a drug's *net* cost can be far below its list price. This is the mechanism that blunted Humira biosimilar savings. |  |
-| 94 | PCR | **Polymerase chain reaction** — amplifies a target DNA or RNA sequence millions of times, so that even a few copies become detectable. The technique behind COVID tests. Its strength and its limit are the same fact: it detects genetic material only. |  |
-| 95 | psoriasis | A chronic autoimmune skin disease — scaly plaques from accelerated skin-cell turnover. Treated with anti-TNF and other biologics. |  |
-| 96 | QRI | **Qualified Research Institution** — a term from FDA's Expedited IND Pilot: an institution vetted by FDA to participate in the programme. |  |
-| 97 | RAND | The **RAND Corporation** — the original postwar FFRDC, founded in 1948 out of a US Air Force project. Policy analysis and research rather than hardware; birthplace of much of systems analysis and game-theoretic strategy. |  |
-| 98 | residual DNA | Leftover host-cell DNA in a purified drug product. Regulators cap it — on the order of 10 ng per dose, with fragments kept short (under about 200 base pairs) so that no intact gene could be carried over. |  |
-| 99 | RFI | **Request for Information** — a government request for input on a subject, with no money attached and no award. Used to shape a future programme and to find out who is out there. | pairs with RFP |
-| 100 | RFP | **Request for Proposals** — a solicitation for bids on a defined deliverable, with an award at the end. | pairs with RFI |
-| 101 | S&T Directorate | **DHS Science and Technology Directorate** — the department's research-and-development arm, which buys and tests technology for all of DHS. |  |
-| 102 | SBIR | **Small Business Innovation Research** — the federal programme that sets aside a share of agency R&D budgets for small companies, in phases (feasibility, development, commercialisation). |  |
-| 103 | SES | **Senior Executive Service** — the senior career civil-service tier just below political appointees. SES officials persist across administrations and usually hold the deep subject expertise and the institutional memory of why earlier attempts failed. | 고위공무원단 |
-| 104 | SLEP | **Shelf-Life Extension Program** — FDA's programme of testing stockpiled federal medicines past their labelled expiry so that usable lots are not discarded. An expiry date is a conservative prediction made at approval; SLEP replaces the prediction with a measurement on the actual lot. |  |
-| 105 | SPR | **Surface plasmon resonance.** A label-free binding method: molecules landing on a thin metal sensor surface change the local refractive index, shifting the angle at which light is absorbed. Yields k_on, k_off and K_D. Requires a purified analyte at known concentration — for specificity, and because k_on cannot be fitted without a known [analyte]. |  |
-| 106 | Strategic National Stockpile | **SNS** — the US federal reserve of medicines, vaccines and medical supplies for emergencies. Run by ASPR since 2018, previously by CDC. |  |
-| 107 | T cell | A lymphocyte that either kills infected or abnormal cells directly (cytotoxic T cells) or directs other immune cells (helper T cells). Distinct from B cells, which make antibodies. |  |
-| 108 | USN | **United States Navy** — the branch suffix following a uniformed officer's name and rank, as in *LCDR Mark Fisher, USN*. The convention exists because a joint staff mixes officers from every service with civilians; the parallel suffixes are USA (Army), USAF (Air Force), USMC (Marine Corps), USCG (Coast Guard) and USSF (Space Force). | pairs with CIV |
-| 109 | VSA | **Versatile Smart Assay** — Erudio Bio's parallel force-spectroscopy platform: many bonds measured per well under applied force, with an optical readout, giving rupture distributions rather than population averages. | the one company-specific term here |
+| 93 | PACT Act | **Honoring our Promise to Address Comprehensive Toxics Act**, signed August 2022 and named for Sergeant First Class Heath Robinson, a combat medic who died of a rare lung cancer after serving beside a burn pit. The largest expansion of US veterans' health benefits in decades. Its mechanism is the **presumptive** condition: for a veteran who served in a listed place and period, a listed illness is assumed to be service-connected, so the burden of proof shifts from the veteran to the government. Covers more than twenty conditions, mostly cancers and respiratory disease, and was scored in the hundreds of billions of dollars over ten years. The reason it exists is that nobody measured exposure or physiological response at the time, so a causal question was settled by statute instead of by data — and undetected exposure is now a budgeted federal liability. | 2022; shifts the burden of proof |
+| 94 | PBM | **Pharmacy benefit manager** — the intermediary that negotiates drug prices for insurers and employers. Manufacturers pay rebates off list price to secure formulary position, so a drug's *net* cost can be far below its list price. This is the mechanism that blunted Humira biosimilar savings. |  |
+| 95 | PCR | **Polymerase chain reaction** — amplifies a target DNA or RNA sequence millions of times, so that even a few copies become detectable. The technique behind COVID tests. Its strength and its limit are the same fact: it detects genetic material only. |  |
+| 96 | psoriasis | A chronic autoimmune skin disease — scaly plaques from accelerated skin-cell turnover. Treated with anti-TNF and other biologics. |  |
+| 97 | QRI | **Qualified Research Institution** — a term from FDA's Expedited IND Pilot: an institution vetted by FDA to participate in the programme. |  |
+| 98 | RAND | The **RAND Corporation** — the original postwar FFRDC, founded in 1948 out of a US Air Force project. Policy analysis and research rather than hardware; birthplace of much of systems analysis and game-theoretic strategy. |  |
+| 99 | residual DNA | Leftover host-cell DNA in a purified drug product. Regulators cap it — on the order of 10 ng per dose, with fragments kept short (under about 200 base pairs) so that no intact gene could be carried over. |  |
+| 100 | RFI | **Request for Information** — a government request for input on a subject, with no money attached and no award. Used to shape a future programme and to find out who is out there. | pairs with RFP |
+| 101 | RFP | **Request for Proposals** — a solicitation for bids on a defined deliverable, with an award at the end. | pairs with RFI |
+| 102 | S&T Directorate | **DHS Science and Technology Directorate** — the department's research-and-development arm, which buys and tests technology for all of DHS. |  |
+| 103 | SBIR | **Small Business Innovation Research** — the federal programme that sets aside a share of agency R&D budgets for small companies, in phases (feasibility, development, commercialisation). |  |
+| 104 | SES | **Senior Executive Service** — the senior career civil-service tier just below political appointees. SES officials persist across administrations and usually hold the deep subject expertise and the institutional memory of why earlier attempts failed. | 고위공무원단 |
+| 105 | SLEP | **Shelf-Life Extension Program** — FDA's programme of testing stockpiled federal medicines past their labelled expiry so that usable lots are not discarded. An expiry date is a conservative prediction made at approval; SLEP replaces the prediction with a measurement on the actual lot. |  |
+| 106 | SPR | **Surface plasmon resonance.** A label-free binding method: molecules landing on a thin metal sensor surface change the local refractive index, shifting the angle at which light is absorbed. Yields k_on, k_off and K_D. Requires a purified analyte at known concentration — for specificity, and because k_on cannot be fitted without a known [analyte]. |  |
+| 107 | Strategic National Stockpile | **SNS** — the US federal reserve of medicines, vaccines and medical supplies for emergencies. Run by ASPR since 2018, previously by CDC. |  |
+| 108 | T cell | A lymphocyte that either kills infected or abnormal cells directly (cytotoxic T cells) or directs other immune cells (helper T cells). Distinct from B cells, which make antibodies. |  |
+| 109 | USN | **United States Navy** — the branch suffix following a uniformed officer's name and rank, as in *LCDR Mark Fisher, USN*. The convention exists because a joint staff mixes officers from every service with civilians; the parallel suffixes are USA (Army), USAF (Air Force), USMC (Marine Corps), USCG (Coast Guard) and USSF (Space Force). | pairs with CIV |
+| 110 | VSA | **Versatile Smart Assay** — Erudio Bio's parallel force-spectroscopy platform: many bonds measured per well under applied force, with an optical readout, giving rupture distributions rather than population averages. | the one company-specific term here |
 {: #glossary}
 
 ## 2. Biophysics Intuitions
@@ -198,9 +199,9 @@ The same quantity seen from several angles — several readings that each make a
 | Energy landscape | **What force measurement adds.** Equilibrium methods report where a reaction settles. Pulling on a bond tilts its energy landscape — force multiplied by distance subtracts from each barrier — so the rate of escape rises with force in a way that depends on the barrier's *position*, not only its height. Measuring rupture across loading rates therefore recovers the shape of the landscape: how many barriers, how tall, how far out. Two pairs with identical K_D can have entirely different landscapes, and behave differently under load.<br><br>The usual single-peak diagram is the simplest possible case; real interfaces generally have several barriers, and the slowest step — the rate-limiting one — is whichever is hardest to cross from the direction being travelled. |
 | Survival curves | **Why a distribution beats an average.** Each measured bond contributes one rupture event; thousands of them give a survival curve, which is a histogram, not a single number. A population that is 95% intact and 5% degraded shows a second mode in that curve and is invisible in an averaged affinity. This is what makes rupture statistics useful for equivalence and stability questions rather than only for ranking affinities. |
 
-## 3. Molecules in Depth
+## 3. Topics in Depth
 
-Entries that need more room than a glossary line — the molecules and structures that most of the rest assumes.
+Entries that need more room than a glossary line — the molecules, structures and distinctions that most of the rest assumes.
 
 ### IgG — the antibody format
 
@@ -329,6 +330,25 @@ So one molecule carries two separable functions: *what it grabs* (Fab) and *what
 
 **One detail with clinical consequences.** The gamma band is a broad smear rather than a sharp line, because serum antibodies are **polyclonal** — millions of clones, each with a slightly different sequence and so a slightly different charge. The smear *is* the diversity. A sharp spike in that region means a single clone has come to dominate, which is the **M-protein** of a monoclonal gammopathy and a classic finding in multiple myeloma. The underlying lesson generalizes: the shape of a distribution carries information that any single summary number discards.
 
+### What a detection method can see
+
+Two questions that look alike and are not. *Which organism's genome is present, from this fixed list?* is the question a nucleic-acid method answers. *What is in this sample, and what is the body doing about it?* is the question a protein-level readout answers. Most arguments about detection are really arguments about which question was being asked.
+
+**What nucleic-acid methods detect.**
+
+- **Genomes only** — DNA or RNA, and so bacteria, viruses, fungi and parasites. RNA targets are reverse-transcribed to DNA first; the category does not change.
+- **Panel-bound targets.** Every target needs a primer pair designed in advance, so the instrument can only find what is already on its list. A novel or engineered agent stays invisible until someone adds it.
+- **Presence, not viability or dose.** Amplified sequence shows that genetic material was in the sample. It does not show that the organism is alive, active, or present in a quantity that matters.
+
+**What a protein-level readout adds.**
+
+- **Toxins.** Ricin and botulinum toxin are proteins — biologically produced, biologically active, and carrying no genome of their own. An organism has a genome; a purified molecule it made does not. This is a whole category outside nucleic-acid detection, not an edge case.
+- **Host response.** Cytokine and other protein signatures show that a person has been exposed and is responding, often before symptoms appear. A nucleic-acid method has nothing to say here. This is the half that supports triage and before-and-after baselines, and it is usually the one left out.
+- **Agents whose genome is absent, degraded or unsequenced.** Protein markers survive where sequence is unavailable — the defensible form of any claim about detecting the unknown.
+- **Functional state.** Whether something binds, and how strongly. There is no nucleic-acid analogue, and it is the axis VSA measures.
+
+**How to put it.** Not “PCR is blind to X”, which invites an argument about edge cases from anyone who knows the method well. The durable statement is that the two answer different questions — and that identity, exposure and function all live in the second one.
+
 ## 4. Key Contrasts
 
 Short passages worth keeping whole — each one a distinction that decides what a measurement can and cannot claim.
@@ -347,7 +367,7 @@ The distinction is structural, not a matter of engineering refinement, and it de
 
 ### PCR reads genes, not function
 
-PCR amplifies a target gene sequence millions of times so that even a few copies become detectable. That is the key to its strength *and* its limit: it detects **nucleic acids only**. It cannot see a protein toxin such as botulinum or ricin, which carry no nucleic acid of their own, and it cannot tell whether the organism it found is alive and active or long dead. A method that measures *binding* rather than sequence is not restricted this way, because what it detects is whatever its sensor is built to grab.
+PCR amplifies a target gene sequence millions of times so that even a few copies become detectable. That is the key to its strength *and* its limit: it detects **nucleic acids only**. It cannot see a protein toxin such as botulinum or ricin, which carry no nucleic acid of their own, and it cannot tell whether the organism it found is alive and active or long dead. A method that measures *binding* rather than sequence is not restricted this way, because what it detects is whatever its sensor is built to grab. The fuller comparison — what each side can and cannot see — is in *What a detection method can see* above.
 
 ### What is actually wrong with the fielded incumbent
 
